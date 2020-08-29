@@ -3,8 +3,6 @@
 railsのgetting startedをやっている。
 https://guides.rubyonrails.org/getting_started.html
 
-5.7 Showing Articles までやった。
-
 # メモ
 
 ローカルネットワークからアクセスするためには以下のようにする。
